@@ -112,19 +112,11 @@ int main(int argc, char* argv[])
 
 ## OUTPUT:
 $ ./sem.o 
-
-
-![Screenshot 2024-10-17 083755](https://github.com/user-attachments/assets/979bf8df-dd48-4cde-90fd-a785c27f86cf)
-
-![Screenshot 2024-10-17 083816](https://github.com/user-attachments/assets/2570ca28-9f29-496f-8006-e37dc384ca63)
+<img width="706" height="601" alt="Screenshot at 2025-11-17 12-47-27" src="https://github.com/user-attachments/assets/5efd2372-e701-4072-8fd5-00e640a6b717" />
 
 $ ipcs
 
-
-![Screenshot 2024-10-17 083832](https://github.com/user-attachments/assets/ca80d7ce-6b1c-4383-b292-fb42b3341704)
-
-
-
+<img width="912" height="673" alt="b" src="https://github.com/user-attachments/assets/9b858b87-abdb-4874-8b0c-3e175e7ccca2" />
 
 ## RESULT:
 
